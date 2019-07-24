@@ -5,3 +5,4 @@ from .models import *
 admin.site.register(laptop)
 admin.site.register(camara)
 admin.site.register(minicomponente)
+admin.site.register(carrito)
